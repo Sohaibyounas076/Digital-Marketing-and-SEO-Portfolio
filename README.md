@@ -34,22 +34,29 @@ I’m **Sohaib Younas**, a **Full Stack Web Developer & SEO Specialist** with ex
 
 ## 📊 Featured Projects  
 
-### 🔹 Project 1 – SEO Growth & Website Development  
+### 🔹 Project – Beem Sports (Live Sports Streaming Website)  
 
 <p align="center">
-  <img src="screenshots/project1-1.png" alt="Screenshot 1" width="45%" />
-  <img src="screenshots/project1-2.png" alt="Screenshot 2" width="45%" />
+  <img src="screenshots/beem-sport-keyword.png" alt="Screenshot 1" width="45%" />
+  <img src="screenshots/beem-sports-active-user.png" alt="Screenshot 2" width="45%" />
 </p>  
 
 <p align="center">
-  <img src="screenshots/project1-3.png" alt="Screenshot 3" width="70%" />
+  <img src="screenshots/Beem-Sport-Website.png" alt="Screenshot 3" width="70%" />
 </p>  
 
 **Description:**  
-This project involved **WordPress SEO optimization + technical fixes**. I improved **page speed**, resolved crawl errors, and optimized content. Within 3 months, the site achieved:  
-- 🚀 120% organic traffic growth  
-- 🔑 20+ keywords ranked on Google’s **first page**  
-- ⚡ Page speed improved from 45 → 90+  
+I worked on the **SEO of Beem Sports**, a live sports streaming platform.  
+Initially, the website was not even ranking on **Google’s first page**, but through my SEO strategies it achieved **top rankings** for multiple high-traffic keywords.  
+
+**Key Achievements:**  
+- 🚀 Ranked the website on **Google 1st Page** for competitive sports keywords  
+- 📈 Achieved **65,000+ pageviews** within the campaign (as shown in Google Analytics)  
+- 🔑 Improved visibility and organic reach for **cricket & live sports keywords**  
+- ⚡ Enhanced **user engagement** by reducing bounce rate and improving session time  
+
+This project demonstrates my ability to **take a website from zero visibility to strong organic performance** with measurable results.
+
 
 ---
 
