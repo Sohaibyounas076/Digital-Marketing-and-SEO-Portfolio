@@ -38,9 +38,9 @@ I’m **Sohaib Younas**, a **Full Stack Web Developer & SEO Specialist** with ex
 
 <p align="center">
   <img src="screenshots/beem-sport-keyword.png" alt="Screenshot 1" width="45%" height="250px" />
-  <img src="screenshots/beem-sports-active-user.png" alt="Screenshot 2" width="45%" height="450px" />
+  <img src="screenshots/beem-sports active-user.png" alt="Screenshot 2" width="45%" height="450px" />
 </p>  
-
+<br>
 <p align="center">
   <img src="screenshots/Beem-Sport-Website.png" alt="Screenshot 3" width="70%" height="350px" />
 </p>  
