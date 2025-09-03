@@ -60,18 +60,31 @@ This project demonstrates my ability to **take a website from zero visibility to
 
 ---
 
-### 🔹 Project 2 – Shopify SEO & Store Optimization  
+📚 Project – EMS Tutoring (Education / Online Tutoring Platform – UK) 
 
 <p align="center">
-  <img src="screenshots/project2-1.png" alt="Screenshot 1" width="45%" />
-  <img src="screenshots/project2-2.png" alt="Screenshot 2" width="45%" />
+  <img src="screenshots/EMS-Tutoring.png" alt="Screenshot 1" width="45%" />
+  <img src="screenshots/EMS-KEYWORD.png" alt="Screenshot 2" width="45%" />
 </p>  
 
 **Description:**  
-Optimized a **Shopify store** with proper **meta tags, alt attributes, and keyword-focused content**.  
-- Increased sales conversion rate by **35%**  
-- Ranked **10+ product pages** in top Google results  
-- Implemented **structured data** for rich snippets  
+Description:
+I worked on the SEO of EMS Tutoring, an online tutoring platform in the UK.
+Initially, the website had very low visibility and was not appearing on Google’s first page. Through a complete SEO strategy (on-page optimization, off-page backlinks, and keyword research), the website achieved 1st-page rankings for tutoring-related keywords and started generating consistent traffic.
+
+Key Achievements:
+
+🚀 Ranked the website on Google’s 1st Page for multiple educational and tutoring keywords
+
+📈 Reached 574+ users in the last 7 days (as shown in analytics)
+
+🔑 Improved visibility in the UK tutoring market with targeted keyword strategy
+
+⚡ Achieved 13.9% weekly growth in traffic compared to the previous period
+
+🎯 Strengthened brand credibility by optimizing site structure, schema, and local SEO
+
+👉 This project highlights my expertise in growing an education niche website from low visibility to measurable organic performance with consistent growth.
 
 ---
 
