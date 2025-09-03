@@ -6,6 +6,7 @@ Here I showcase my **SEO expertise, full-stack development skills, and real clie
 ---
 
 ## 👨‍💻 About Me  
+![logo](https://github.com/Sohaibyounas076/sohaibyounas076/blob/main/new%20banner.png?raw=true)
 
 I’m **Sohaib Younas**, a **Full Stack Web Developer & SEO Specialist** with experience in:  
 
