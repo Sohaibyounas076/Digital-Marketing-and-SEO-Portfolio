@@ -88,20 +88,29 @@ Key Achievements:
 
 ---
 
-### 🔹 Project 3 – Technical SEO & Website Audit  
+### 🔹 🍴 Project – Regency Wraps (Foodservice & Gourmet Retail)
 
 <p align="center">
-  <img src="screenshots/project3-1.png" alt="Screenshot 1" width="45%" />
-  <img src="screenshots/project3-2.png" alt="Screenshot 2" width="45%" />
+  <img src="screenshots/regency-wraps.png" alt="Screenshot 1" width="45%" />
+  <img src="screenshots/regency-wraps-keyword.png" alt="Screenshot 2" width="45%" />
 </p>  
 
-**Description:**  
-Conducted a **full SEO audit** for a client’s website, fixing:  
-- Duplicate meta tags & broken links  
-- Mobile usability issues  
-- Sitemap & robots.txt configuration  
+Description:
+I worked on the SEO and digital growth strategy for Regency Wraps, a leading manufacturer of chef-grade cooking accessories. Despite being an established brand since 1985, their website had low visibility and wasn’t generating the online traffic it deserved. Through a mix of technical SEO, keyword targeting, and content authority building, I delivered measurable results within just 1 week.
 
-Result: ✅ Google Search Console showed **indexing improvement of 80%**.  
+Key Achievements (in 1 week):
+
+🚀 Boosted search visibility by +73% impressions in Google Search
+
+📈 Increased qualified organic clicks by +23%
+
+🔑 Ranked for high-intent commercial keywords like “professional chef wraps” & “gourmet cooking products”
+
+⚡ Strengthened site authority with optimized technical SEO and valuable backlinks
+
+🎯 Built a strong digital presence for both B2B (foodservice) and B2C (direct-to-chef retail) customers
+
+👉 This project demonstrates my ability to take a well-known offline brand and grow its digital visibility & lead generation through SEO-driven strategies in a very short time.  
 
 ---
 
