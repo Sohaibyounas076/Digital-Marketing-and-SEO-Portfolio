@@ -114,6 +114,24 @@ Key Achievements (in 1 week):
 👉 This project demonstrates my ability to take a well-known offline brand and grow its digital visibility & lead generation through SEO-driven strategies in a very short time.  
 
 ---
+## 📈 Results Achieved  
+
+### SEO Score Improvement  
+- **Before Optimization:** 31/100 (❌ Poor)  
+- **After Optimization:** 94/100 (✅ Excellent)  
+
+*SEO score before optimization* ![Before SEO Report](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/Before_ALC-Seo_Report.png)  
+<br>  
+*SEO score after optimization* ![After SEO Report](https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/After_ALC-Seo_Report.png)  
+  
+
+### Critical Issues Resolved  
+- Fixed **18 critical SEO issues** from initial audit  
+- Implemented **22 recommended improvements**  
+- Achieved **perfect scores** in all green categories  
+
+---
+
 
 ## 📂 Repository Structure  
 
