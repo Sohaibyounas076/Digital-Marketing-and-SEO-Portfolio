@@ -132,6 +132,83 @@ Key Achievements (in 1 week):
 
 ---
 
+# 🥗 The Nutrition King - Bodybuilding Supplements Store
+
+⚡ Professional Supplements E-Commerce Website built with **WordPress, Elementor, WooCommerce, and SEO Optimization**
+
+A complete online store for **The Nutrition King**, developed with WordPress, Elementor, and WooCommerce.  
+The site sells bodybuilding supplements, diet products, and training accessories with full e-commerce functionality.  
+
+It includes Home, Shop, Product Categories, Blog, About, and Contact pages.  
+All pages are fully responsive and optimized for conversions.
+## 📊 SEO Optimization
+
+After the website was built, the client asked if it could appear on Google.  
+I showed them an initial SEO audit with many critical issues. The client was impressed and ordered a complete SEO service.  
+
+### 🔴 Initial Issues
+- 13 critical issues affecting rankings  
+- 12 recommended fixes not implemented  
+- Poor metadata and keyword optimization  
+- Missing alt tags for images  
+- Slow loading speed  
+- Weak mobile responsiveness  
+
+---
+
+### 📈 Before SEO vs After SEO
+
+<table>
+  <tr>
+    <td align="center"><b>Before SEO</b></td>
+    <td align="center"><b>After SEO</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Before%20Seo%20.png" alt="Before SEO" width="100%" height="250px"></td>
+    <td><img src="https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/After%20Seo%20.png" alt="After SEO" width="100%" height="250px"></td>
+  </tr>
+</table>
+
+---
+
+### ⚙️ SEO Strategy Implemented
+
+- **On-Page:** Optimized titles, meta descriptions, headings, schema, and alt tags  
+- **Technical:** Improved speed, fixed crawl errors, optimized sitemap  
+- **Content:** Keyword-rich descriptions, unique content, internal linking  
+- **Off-Page:** Quality backlinks, social media profiles, local SEO (UK)  
+
+---
+
+### ✅ Results
+
+- SEO Score improved to **96/100**  
+- 0 critical issues remaining  
+- Website ranks for keywords like  
+  - *"bodybuilding supplements UK"*  
+  - *"weight loss products"*  
+  - *"training gear"*  
+
+---
+
+### 📊 Google Search & Traffic Results
+
+<table>
+  <tr>
+    <td align="center"><b>Google Search Results</b></td>
+    <td align="center"><b>Traffic Performance</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Google%20Search.png" alt="Google Search Results" width="100%" height="300px"></td>
+    <td><img src="https://github.com/Sohaibyounas076/the-nutrition-king-ecommerce-Site/blob/main/screenshots/Seo%20Results.png" alt="SEO Results" width="100%" height="300px"></td>
+  </tr>
+</table>
+
+---
+
+
+
+
 
 ## 📂 Repository Structure  
 
