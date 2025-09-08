@@ -15,18 +15,10 @@ I’m **Sohaib Younas**, a **Full Stack Web Developer & SEO Specialist** with ex
 - 💻 **Web Development:** HTML5, CSS3, Bootstrap 5, PHP, SQL, JavaScript  
 - 🖥 **CMS & Platforms:** WordPress, Shopify, Wix  
 - 🎨 **Design Tools:** Figma, Canva  
-- 📈 **SEO Expertise:** On-Page SEO, Off-Page SEO, Technical SEO, Keyword Research, Competitor Analysis, SEO Audits & Reporting  
+- 📈 **SEO Expertise:** On-Page SEO, Off-Page SEO, Technical SEO, Keyword Research, Competitor Analysis, SEO Audits & Reporting
+- 📈 **SEO Tools:** `Google Analytics` · `Google Search Console` · `Ahrefs` · `SEMrush` · `Screaming Frog`
 
 ⚡ My goal is to build **optimized websites** that rank higher, drive organic traffic, and grow businesses.  
-
----
-
-## 🛠 Skills & Tools  
-
-- **Web Development:** `HTML5` · `CSS3` · `Bootstrap` · `PHP` · `SQL`  
-- **CMS Platforms:** `WordPress` · `Shopify` · `Wix`  
-- **Design Tools:** `Figma` · `Canva`  
-- **SEO Tools:** `Google Analytics` · `Google Search Console` · `Ahrefs` · `SEMrush` · `Screaming Frog`  
 
 ---
 
@@ -100,12 +92,10 @@ Despite being established since 1985, their website had low online visibility. W
 - 🎯 Enhanced digital presence for both B2B and B2C customers  
 
 ---
+### Project: Allama Iqbal Law College Website  
 
-## 📈 Results Achieved  
-
-### SEO Score Improvement  
-- ❌ **Before:** 31/100  
-- ✅ **After:** 94/100  
+Developed and optimized the official website for **Allama Iqbal Law College**.  
+The site started with a low SEO score of **31/100**. After full on-page and technical SEO, it improved to **94/100**, resolving all issues and boosting search visibility.  
 
 <table>
   <tr>
@@ -113,6 +103,12 @@ Despite being established since 1985, their website had low online visibility. W
     <td><img src="https://github.com/Sohaibyounas076/Allama-Iqbal-Law-College-Website/blob/main/Screenshots/After_ALC-Seo_Report.png" alt="After SEO" width="100%"/></td>
   </tr>
 </table>  
+
+## 📈 Results Achieved  
+
+### SEO Score Improvement  
+- ❌ **Before:** 31/100  
+- ✅ **After:** 94/100  
 
 **Critical Issues Resolved:**  
 - Fixed **18 critical SEO issues**  
@@ -126,8 +122,6 @@ Despite being established since 1985, their website had low online visibility. W
 ⚡ Professional Supplements E-Commerce Website built with **WordPress, Elementor, WooCommerce, and SEO Optimization**  
 
 This is a complete online store for **The Nutrition King** with supplements, diet products, and training accessories.  
-
----
 
 ## 📊 SEO Optimization  
 
